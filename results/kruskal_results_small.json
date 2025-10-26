@@ -1,0 +1,437 @@
+[
+  {
+    "mstEdges": [
+      {
+        "u": 15,
+        "v": 8,
+        "weight": 23.0
+      },
+      {
+        "u": 13,
+        "v": 2,
+        "weight": 39.0
+      },
+      {
+        "u": 6,
+        "v": 22,
+        "weight": 45.0
+      },
+      {
+        "u": 12,
+        "v": 7,
+        "weight": 70.0
+      },
+      {
+        "u": 13,
+        "v": 22,
+        "weight": 77.0
+      },
+      {
+        "u": 16,
+        "v": 0,
+        "weight": 87.0
+      },
+      {
+        "u": 0,
+        "v": 4,
+        "weight": 90.0
+      },
+      {
+        "u": 3,
+        "v": 15,
+        "weight": 98.0
+      },
+      {
+        "u": 7,
+        "v": 0,
+        "weight": 150.0
+      },
+      {
+        "u": 19,
+        "v": 2,
+        "weight": 150.0
+      },
+      {
+        "u": 18,
+        "v": 6,
+        "weight": 173.0
+      },
+      {
+        "u": 5,
+        "v": 22,
+        "weight": 185.0
+      },
+      {
+        "u": 16,
+        "v": 14,
+        "weight": 208.0
+      },
+      {
+        "u": 22,
+        "v": 0,
+        "weight": 215.0
+      },
+      {
+        "u": 9,
+        "v": 3,
+        "weight": 222.0
+      },
+      {
+        "u": 5,
+        "v": 1,
+        "weight": 227.0
+      },
+      {
+        "u": 14,
+        "v": 9,
+        "weight": 291.0
+      },
+      {
+        "u": 7,
+        "v": 21,
+        "weight": 318.0
+      },
+      {
+        "u": 11,
+        "v": 0,
+        "weight": 347.0
+      },
+      {
+        "u": 17,
+        "v": 16,
+        "weight": 361.0
+      },
+      {
+        "u": 10,
+        "v": 20,
+        "weight": 430.0
+      },
+      {
+        "u": 10,
+        "v": 5,
+        "weight": 552.0
+      }
+    ],
+    "totalCost": 4358.0,
+    "originalVertices": 23,
+    "originalEdges": 65,
+    "comparisons": 169,
+    "unions": 22,
+    "otherOps": 65,
+    "execTimeMs": 0.02756,
+    "graphIndex": 1,
+    "vertices": 23,
+    "edges": 65
+  },
+  {
+    "mstEdges": [
+      {
+        "u": 7,
+        "v": 16,
+        "weight": 6.0
+      },
+      {
+        "u": 2,
+        "v": 0,
+        "weight": 90.0
+      },
+      {
+        "u": 17,
+        "v": 7,
+        "weight": 184.0
+      },
+      {
+        "u": 13,
+        "v": 7,
+        "weight": 193.0
+      },
+      {
+        "u": 1,
+        "v": 17,
+        "weight": 214.0
+      },
+      {
+        "u": 6,
+        "v": 0,
+        "weight": 221.0
+      },
+      {
+        "u": 11,
+        "v": 3,
+        "weight": 279.0
+      },
+      {
+        "u": 1,
+        "v": 0,
+        "weight": 291.0
+      },
+      {
+        "u": 10,
+        "v": 1,
+        "weight": 300.0
+      },
+      {
+        "u": 9,
+        "v": 6,
+        "weight": 420.0
+      },
+      {
+        "u": 17,
+        "v": 11,
+        "weight": 457.0
+      },
+      {
+        "u": 16,
+        "v": 5,
+        "weight": 490.0
+      },
+      {
+        "u": 11,
+        "v": 4,
+        "weight": 501.0
+      },
+      {
+        "u": 8,
+        "v": 5,
+        "weight": 506.0
+      },
+      {
+        "u": 14,
+        "v": 8,
+        "weight": 547.0
+      },
+      {
+        "u": 15,
+        "v": 10,
+        "weight": 554.0
+      },
+      {
+        "u": 12,
+        "v": 6,
+        "weight": 694.0
+      }
+    ],
+    "totalCost": 5947.0,
+    "originalVertices": 18,
+    "originalEdges": 36,
+    "comparisons": 96,
+    "unions": 17,
+    "otherOps": 36,
+    "execTimeMs": 0.00989,
+    "graphIndex": 2,
+    "vertices": 18,
+    "edges": 36
+  },
+  {
+    "mstEdges": [
+      {
+        "u": 9,
+        "v": 7,
+        "weight": 2.0
+      },
+      {
+        "u": 7,
+        "v": 2,
+        "weight": 25.0
+      },
+      {
+        "u": 3,
+        "v": 1,
+        "weight": 54.0
+      },
+      {
+        "u": 5,
+        "v": 4,
+        "weight": 82.0
+      },
+      {
+        "u": 0,
+        "v": 4,
+        "weight": 148.0
+      },
+      {
+        "u": 3,
+        "v": 2,
+        "weight": 174.0
+      },
+      {
+        "u": 8,
+        "v": 9,
+        "weight": 241.0
+      },
+      {
+        "u": 6,
+        "v": 3,
+        "weight": 245.0
+      },
+      {
+        "u": 7,
+        "v": 4,
+        "weight": 262.0
+      }
+    ],
+    "totalCost": 1233.0,
+    "originalVertices": 10,
+    "originalEdges": 19,
+    "comparisons": 46,
+    "unions": 9,
+    "otherOps": 19,
+    "execTimeMs": 0.008749999999999999,
+    "graphIndex": 3,
+    "vertices": 10,
+    "edges": 19
+  },
+  {
+    "mstEdges": [
+      {
+        "u": 12,
+        "v": 4,
+        "weight": 17.0
+      },
+      {
+        "u": 11,
+        "v": 3,
+        "weight": 27.0
+      },
+      {
+        "u": 1,
+        "v": 17,
+        "weight": 39.0
+      },
+      {
+        "u": 19,
+        "v": 1,
+        "weight": 42.0
+      },
+      {
+        "u": 2,
+        "v": 0,
+        "weight": 60.0
+      },
+      {
+        "u": 15,
+        "v": 2,
+        "weight": 128.0
+      },
+      {
+        "u": 18,
+        "v": 17,
+        "weight": 131.0
+      },
+      {
+        "u": 11,
+        "v": 8,
+        "weight": 135.0
+      },
+      {
+        "u": 12,
+        "v": 11,
+        "weight": 152.0
+      },
+      {
+        "u": 10,
+        "v": 7,
+        "weight": 156.0
+      },
+      {
+        "u": 8,
+        "v": 1,
+        "weight": 158.0
+      },
+      {
+        "u": 14,
+        "v": 5,
+        "weight": 194.0
+      },
+      {
+        "u": 8,
+        "v": 7,
+        "weight": 197.0
+      },
+      {
+        "u": 8,
+        "v": 16,
+        "weight": 225.0
+      },
+      {
+        "u": 20,
+        "v": 3,
+        "weight": 253.0
+      },
+      {
+        "u": 9,
+        "v": 5,
+        "weight": 444.0
+      },
+      {
+        "u": 3,
+        "v": 2,
+        "weight": 494.0
+      },
+      {
+        "u": 6,
+        "v": 3,
+        "weight": 614.0
+      },
+      {
+        "u": 17,
+        "v": 5,
+        "weight": 633.0
+      },
+      {
+        "u": 13,
+        "v": 1,
+        "weight": 690.0
+      }
+    ],
+    "totalCost": 4789.0,
+    "originalVertices": 21,
+    "originalEdges": 32,
+    "comparisons": 95,
+    "unions": 20,
+    "otherOps": 32,
+    "execTimeMs": 0.0128,
+    "graphIndex": 4,
+    "vertices": 21,
+    "edges": 32
+  },
+  {
+    "mstEdges": [
+      {
+        "u": 1,
+        "v": 5,
+        "weight": 11.0
+      },
+      {
+        "u": 2,
+        "v": 3,
+        "weight": 56.0
+      },
+      {
+        "u": 3,
+        "v": 1,
+        "weight": 94.0
+      },
+      {
+        "u": 4,
+        "v": 3,
+        "weight": 357.0
+      },
+      {
+        "u": 1,
+        "v": 0,
+        "weight": 488.0
+      }
+    ],
+    "totalCost": 1006.0,
+    "originalVertices": 6,
+    "originalEdges": 14,
+    "comparisons": 35,
+    "unions": 5,
+    "otherOps": 14,
+    "execTimeMs": 0.00643,
+    "graphIndex": 5,
+    "vertices": 6,
+    "edges": 14
+  }
+]

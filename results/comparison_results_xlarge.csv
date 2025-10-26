@@ -1,0 +1,4 @@
+GraphIndex,Vertices,Edges,Prim_TotalCost,Kruskal_TotalCost,Prim_TimeMs,Kruskal_TimeMs,Prim_Comparisons,Kruskal_Comparisons,Prim_Unions,Kruskal_Unions,Prim_OtherOps,Kruskal_OtherOps
+1,1765,3500,512842.00,512842.00,3.250,0.693,8087,18425,0,1764,5704,3500
+2,1833,4287,461550.00,461550.00,1.048,0.757,9978,22788,0,1832,6474,4287
+3,1197,1804,435043.00,435043.00,0.738,0.107,4034,8997,0,1196,3246,1804
